@@ -1,3 +1,3 @@
-Run main.py file 
-Ensure the dataset directory
-Customize the dataset 
+1.Run main.py file  || 
+2.Ensure the dataset directory|| 
+3. Customize the dataset || 
